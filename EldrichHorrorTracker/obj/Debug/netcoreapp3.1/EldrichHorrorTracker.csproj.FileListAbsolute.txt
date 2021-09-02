@@ -1,0 +1,13 @@
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\bin\Debug\netcoreapp3.1\EldrichHorrorTracker.exe
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\bin\Debug\netcoreapp3.1\EldrichHorrorTracker.deps.json
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\bin\Debug\netcoreapp3.1\EldrichHorrorTracker.runtimeconfig.json
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\bin\Debug\netcoreapp3.1\EldrichHorrorTracker.runtimeconfig.dev.json
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\bin\Debug\netcoreapp3.1\EldrichHorrorTracker.dll
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\bin\Debug\netcoreapp3.1\EldrichHorrorTracker.pdb
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\obj\Debug\netcoreapp3.1\EldrichHorrorTracker.csprojAssemblyReference.cache
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\obj\Debug\netcoreapp3.1\EldrichHorrorTracker.AssemblyInfoInputs.cache
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\obj\Debug\netcoreapp3.1\EldrichHorrorTracker.AssemblyInfo.cs
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\obj\Debug\netcoreapp3.1\EldrichHorrorTracker.dll
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\obj\Debug\netcoreapp3.1\EldrichHorrorTracker.pdb
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User-Pc\OneDrive\Documents\VisualStudio\EldrichHorrorTracker\EldrichHorrorTracker\obj\Debug\netcoreapp3.1\EldrichHorrorTracker.csproj.CopyComplete
